@@ -1,3 +1,3 @@
 # React SSR
 
-Basic app with server side render
+Basic app with Server-Side Rendering
